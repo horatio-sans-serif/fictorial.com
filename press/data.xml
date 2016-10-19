@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<game>	
+	<title>Fictorial</title>
+	<founding-date>December 8, 2008</founding-date>
+	<website>http://fictorial.com/</website>
+	<based-in>New York</based-in>
+	
+	<press-contact>brian@fictorial.com</press-contact>
+	<phone>+1 877 318 1825</phone>
+
+	<socials>
+		<social>
+			<name>twitter.com/Fictorial</name>
+			<link>twitter.com/Fictorial</link>
+		</social>
+		<social>
+			<name>facebook.com/Fictorial</name>
+			<link>facebook.com/Fictorial</link>
+		</social>
+		<social>
+			<name>Skype: fictorial</name>
+			<link>callto:fictorial</link>
+		</social>
+	</socials>
+
+        <description>	Fictorial LLC is a independent app and game development
+        shop for hire founded in 2008 focusing on the iOS platform. 
+	</description>
+		
+	<histories>
+		<history>
+			<header>2012</header>
+                        <text>Work on the client app "Chumkee" wrapped on in June, 2012. Fictorial then designed and developed
+                        "Lexatron", an "amazingly sleek" word game as a new twist for bored players of classic
+                        games such as "Scrabble" and "Words with Friends". Lexatron is available on the iOS App Store since
+                        October, 2012.</text>
+		</history>
+		<history>
+			<header>2011</header>
+                        <text>Fictorial worked with C-Vibes Ltd to create "Glimpsed" (since removed from the App Store),
+                        a social engagement app. Then followed a long client engagement with C-Vibes Ltd on "Chumkee",
+                        an innovative audio-visual photo and video sharing experience with social networking aspects.
+                        Fictorial played the role of a consultant and sole developer on Chumkee, designing several of
+                        its key features while implementing all features. Also created in 2011 was "RPS World Masters: Online Rock Paper Scissors"
+                        which was created to learn Game Center's multiplayer gaming aspects.
+                        </text>
+		</history>
+		<history>
+			<header>2010</header>
+			<text>Fictorial developed PlayRelay, an innovative multiplayer middleware platform for iOS games.
+                        PlayRelay was a huge undertaking and a valuable learning experience. From it, Fictorial gained
+                        experience in the areas of scalable backend server architectures and modern "NoSQL" databases.
+                        Several Open Source projects came from this work including "Jefe", a Node.js sandboxing environment.
+                        Ultimately, the plug was pulled on PlayRelay when Apple announced Game Center. This proved to be
+                        the right decision given that Game Center now supports turn-based gaming effectively killing
+                        any market that PlayRelay might have captured.</text>
+		</history>
+		<history>
+			<header>2009</header>
+			<text>Fictorial worked as an independent contractor on small iOS projects such as "iTap 21".</text>
+		</history>
+		<history>
+			<header>2008</header>
+<text>
+        Fictorial
+        designed and developed "Darts" which went #1 on the free charts in
+        December, 2008 and has been enjoyed by millions of iOS users. 
+        </text>
+		</history>
+	</histories>
+		
+	<credits>
+		<credit>
+			<person>Brian Hammond</person>
+			<role>I do it all!</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>brian@fictorial.com</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/Fictorial</link>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>http://facebook.com/Fictorial</link>
+		</contact>
+		<contact>
+			<name>Web</name>
+			<link>Fictorial.com</link>
+		</contact>
+	</contacts>
+</game>

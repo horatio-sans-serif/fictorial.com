@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+
+<promoter>
+  <product>835</product>
+</promoter>
+
+	<title>Lexatron</title>
+	<release-date>Oct 10, 2012</release-date>
+	<website>http://fictorial.com/lexatron</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Apple App Store</name>
+			<link>http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=551233065</link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>USD</currency>
+			<value>$0.99</value>
+		</price>
+	</prices>
+
+	<description>
+        Lexatron is a word race!  Form words on the X-shaped board to snake a path from one corner of the board to the other.  Reach your star space first and win!  Detonate a bomb to clear a path and keep going if your opponent blocks your way!  Lexatron is easy to learn but forces the player to make tough strategic decisions.
+        Lexatron provides an upgrade path for millions of bored "Words with Friends" players.
+	</description>
+	
+	<history>
+        Lexatron was designed, developed, and tested over the course of 10 weeks in the summer of 2012.
+	</history>
+
+	<features>
+        <feature>Casual, asynchronous, 2-player gameplay for iOS devices including the new iPhone 5</feature>
+        <feature>Sleek graphics with an isometric game board</feature>
+        <feature>Random match-ups</feature>
+        <feature>Challenge your friends from Facebook, Twitter, or your address book</feature>
+        <feature>Pass-and-play matches when you are sitting next to a friend</feature>
+        <feature>In-game chat</feature>
+        <feature>Universal app for iPhone, iPod touch, and iPad</feature>
+        <feature>Uses familiar word list and scoring system</feature>
+	</features>
+
+        
+	
+	<trailers>
+		<trailer>
+			<name>Trailer</name>
+			<youtube>ZKan2aCR0IU</youtube>
+		</trailer>
+	</trailers>
+	
+	<credits>
+		<credit>
+			<person>Brian Hammond</person>
+			<role>Design, Development, Graphics, Audio</role>
+		</credit>
+	</credits>
+</game>
